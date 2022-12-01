@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "current": "node solutions/1.js"
   },
   "author": "",
   "license": "MIT"
